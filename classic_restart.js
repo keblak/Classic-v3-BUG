@@ -1,2 +1,2 @@
-let classic : off
+let classic : on
 
